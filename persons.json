@@ -1,0 +1,8 @@
+[
+  { "id": 1, "fname": "Mohamed", "lname": "Tamer", "age": 20, "city": "Tanta" },
+  { "id": 3, "fname": "Esraa", "lname": "Tamer", "age": 17, "city": "Tanta" },
+  { "id": 5,"fname": "Mahmoud","lname": "Waleed","age": 17,"city": "Tanta"},
+  { "id": 7, "fname": "Anas", "lname": "Osama", "age": 13, "city": "Tanta" },
+  { "id": 9, "fname": "Roaa", "lname": "Ahmed", "age": 6, "city": "Tanta" },
+  { "id": 10, "fname": "Rawda", "lname": "Ahmed", "age": 3, "city": "Tanta" }
+]
